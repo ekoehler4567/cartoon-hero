@@ -1,29 +1,29 @@
 body{
-background-color: darkgoldenrod;
+	background-color: darkgoldenrod;
 }
 
 h1{
-font-size: 30px;
-color: #4220C2;
+	color: #4220C2;
+	font-size: 30px;
 }
 
 h2{
-color:#3AE710 ;
-font-size: 20px;
+	color:#3AE710 ;
+	font-size: 20px;
 }
 
 .big{
-font-size: 60px;
+	font-size: 60px;
 }
 
 .uppercase{
-text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 .big.uppercase{
-color: navy;
+	color: navy;
 }
 
 h1 span{
-color: violet;
+	color: violet;
 }
